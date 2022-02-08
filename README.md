@@ -33,7 +33,7 @@
 <h1 style= "color:#883030">Links</h1>
 
 
- ## [Tracker](https://cknight98.github.io/tracking-application/)
+ ## [Tracker](https://montyking20.github.io/training-tracker/)
 <br>
 <br>
 
@@ -89,11 +89,6 @@
 
 <br>
 
-<p align= "center" style= "color:#b38d25">Email API</p>
-
-![Email API](/assets/images/Screenshot-main.jpg)
-
-<br>
 
 <p align= "center" style= "color:#b38d25">Calender API</p>
 
