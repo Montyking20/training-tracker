@@ -29,7 +29,7 @@
 <h1 style= "color:#883030">Links</h1>
 
 
- ## [Training Tracker](https://cknight98.github.io/tracking-application/)
+ ## [Training Tracker](https://montyking20.github.io/training-tracker/)
 <br>
 <br>
 
